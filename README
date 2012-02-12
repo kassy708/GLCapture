@@ -1,4 +1,4 @@
-GLCapture
+GLCapture.hpp
 OpenGLの描画を動画として保存するプログラムです。
 使い方はサンプルプログラム参照
 
